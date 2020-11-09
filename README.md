@@ -6,9 +6,10 @@
 
 ### File list
 
-| File      | Enviroment         | Content                    |
-| --------- | ------------------ | -------------------------- |
-| sort3.cpp | Visual Studio 2019 | Sort three number: a, b, c |
+| File          | Enviroment         | Content                    |
+| ------------- | ------------------ | -------------------------- |
+| sort3.cpp     | Visual Studio 2019 | Sort three number: a, b, c |
+| prime1000.cpp | Visual Studio 2019 | Primes within 1000         |
 
 &emsp;&emsp;文件里面就不管是什么语言了，因为好难排版的说。
 
